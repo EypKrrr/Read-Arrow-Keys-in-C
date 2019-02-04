@@ -1,1 +1,1 @@
-# Read-Arrow-Keys-in-C
+# C'de Yön tuşlarını okuma.(Read Arrow Keys in C)
